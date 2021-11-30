@@ -16,3 +16,6 @@ People
 - Noah
 - Sarah
 - Kirk
+
+*italics*
+**Bold**
