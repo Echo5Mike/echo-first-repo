@@ -15,4 +15,4 @@ People
 - Raul
 - Noah
 - Sarah
--Raul
+- Kirk
