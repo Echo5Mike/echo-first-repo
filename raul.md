@@ -9,7 +9,6 @@
 ##### H5
 
 ###### H6
-####### H7?
 
 People
 - Raul
@@ -18,4 +17,9 @@ People
 - Kirk
 
 *italics*
+
 **Bold**
+
+`Highlight`
+
+I am adding code to `GitHub`
