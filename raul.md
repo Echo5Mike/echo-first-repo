@@ -3,14 +3,14 @@
 ## Learning is great
 
 ### Yay for Echo class
-
-#### Should be h4
-
+# H1
+## H2
+### H3
+#### H4
 ##### H5
-
 ###### H6
 
-People
+List
 - Raul
 - Noah
 - Sarah
@@ -23,3 +23,7 @@ People
 `Highlight`
 
 I am adding code to `GitHub`
+
+```
+Code stuff
+```
